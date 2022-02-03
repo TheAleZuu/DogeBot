@@ -1541,8 +1541,6 @@ xeon.sendMessage(from, teks, text, {quoted: fkontak})
 xeon.groupRemove(from, [sender])
 break
 
-case ''
-
         case 'allmenu':
         case 'xeon':
 groups = xeon.chats.array.filter(v => v.jid.endsWith('g.us'))
