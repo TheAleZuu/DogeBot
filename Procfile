@@ -1,1 +1,2 @@
-worker : npm i && npm audit fix && npm start
+worker : npm audit fix
+worker : npm start
