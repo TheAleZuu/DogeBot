@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && npm audix fix && npm start
+worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && npm audit fix && npm start
